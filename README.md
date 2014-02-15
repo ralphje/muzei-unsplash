@@ -1,4 +1,6 @@
 muzei-unsplash
 ==============
 
-Plugin for the Muzei Live Wallpaper with photo's from Unsplash.com
+Simple plugin for [Roman Nurik's Muzei Live Wallpaper](https://github.com/romannurik/muzei) with photo's from [Unsplash.com](http://unsplash.com). The plugin is not that complicated, and as it's my first Android app, its code could probably be improved significantly.
+
+The real magic happens in /main/src/main/java/net/ralphbroenink/muzei/unsplash/. But you are better off looking at Roman's API documentation.
