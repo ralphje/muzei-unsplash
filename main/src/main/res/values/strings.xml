@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unsplash (Muzei plugin)</string>
+    <string name="source_name">Unsplash</string>
+    <string name="source_description">Free hi-res photos from unsplash.com</string>
+</resources>
