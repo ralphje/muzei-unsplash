@@ -17,7 +17,7 @@ public class RssParser extends DefaultHandler {
     private StringBuffer currentString;
 
     public RssParser() {
-        this.items = new ArrayList();
+        this.items = new ArrayList<>();
     }
 
     public List<RssItem> getItems() {
