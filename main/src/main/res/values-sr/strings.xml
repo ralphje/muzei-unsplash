@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ансплеш (прикључак за Музеј)</string>
+    <string name="source_name">Ансплеш (unsplash.com)</string>
+    <string name="source_description">Бесплатне фотографије високе резолуције са unsplash.com</string>
+</resources>
